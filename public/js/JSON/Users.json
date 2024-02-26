@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "first_name": "Nasser",
+        "last_name": "Nasser",
+        "email": "nassernasser@gmail.com",
+        "password": "nassernasser",
+        "role_id": 0
+    },
+    {
+        "id": 1,
+        "first_name": "Ghaith",
+        "last_name": "Belal",
+        "email": "ghaithbelal@gmail.com",
+        "password": "ghaithbelal",
+        "role_id": 0
+    },
+    {
+        "id": 2,
+        "first_name": "Basel",
+        "last_name": "Hasan",
+        "email": "baselhasan@gmail.com",
+        "password": "baselhasan",
+        "role_id": 0
+    },
+    {
+        "id": 3,
+        "first_name": "Badee",
+        "last_name": "Esmandar",
+        "email": "badeeesmandar@gmail.com",
+        "password": "badeeesmandar",
+        "role_id": 1
+    },
+    {
+        "id": 4,
+        "first_name": "Hasan",
+        "last_name": "Mostafa",
+        "email": "hasanmostafa@gmail.com",
+        "password": "hasanmostafa",
+        "role_id": 1
+    },
+    {
+        "id": 5,
+        "first_name": "Hussain",
+        "last_name": "Hasan",
+        "email": "hussainhasan@gmail.com",
+        "password": "hussainhasan",
+        "role_id": 1
+    }
+]

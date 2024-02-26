@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "user_id": 0,
+        "course_id": 0,
+        "lecture_type": "lecture",
+        "first_best_time": 0,
+        "second_best_time": 1,
+        "third_best_time": 2
+    },
+    {
+        "id": 1,
+        "user_id": 0,
+        "course_id": 1,
+        "lecture_type": "lecture",
+        "first_best_time": 1,
+        "second_best_time": 2,
+        "third_best_time": 3
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "course_id": 2,
+        "lecture_type": "lecture",
+        "first_best_time": 2,
+        "second_best_time": 3,
+        "third_best_time": 4
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "course_id": 3,
+        "lecture_type": true,
+        "first_best_time": 3,
+        "second_best_time": 4,
+        "third_best_time": 5
+    },
+    {
+        "id": 4,
+        "user_id": 2,
+        "course_id": 4,
+        "lecture_type": true,
+        "first_best_time": 4,
+        "second_best_time": 5,
+        "third_best_time": 0
+    },
+    {
+        "id": 5,
+        "user_id": 2,
+        "course_id": 5,
+        "lecture_type": true,
+        "first_best_time": 5,
+        "second_best_time": 4,
+        "third_best_time": 1
+    }
+]

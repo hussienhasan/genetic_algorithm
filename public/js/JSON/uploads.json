@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "name": "Advanced databases",
+        "path": "c://uploads//advanceddatabases.pdf",
+        "type": true,
+        "course_id": 0
+    },
+    {
+        "id": 0,
+        "name": "Information security",
+        "path": "c://uploads//informationsecurity.pdf",
+        "type": true,
+        "course_id": 2
+    }
+]

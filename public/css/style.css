@@ -1,0 +1,57 @@
+*{
+  direction: rtl;
+}
+.view {
+    margin: auto;
+    width: 100%;
+    margin-bottom: 80px;
+  }
+  
+  .wrapper {
+    position: relative;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  .table
+  {
+    border: 1px solid #4e73df;
+  }
+  .sticky-col {
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: white;
+  }
+  
+  .first-col {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    left: 0px;
+    font-weight: bold;
+    color: #4e73df;
+}
+ th
+{
+  text-align: center;
+}
+
+td
+{
+    text-align: right;
+    width: fit-content;
+}
+  
+.nav-item{
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: 20px;
+  align-items: right;
+} 
+
+.sidebar.toggled .nav-item .collapse {
+  z-index: 10;
+  top: -20px;
+  right: 40px;
+}

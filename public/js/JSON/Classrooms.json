@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "r1",
+        "type": "lecture",
+        "capacity": 100,
+        "datashow": false
+    },
+    {
+        "id": 1,
+        "name": "r2",
+        "type": "lecture",
+        "capacity": 100,
+        "datashow": false
+    },
+    {
+        "id": 2,
+        "name": "r3",
+        "type": "lecture",
+        "capacity": 100,
+        "datashow": false
+    }
+]
